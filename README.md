@@ -7,11 +7,11 @@ With a strong background in system analysis and testing, I develop clean, mainta
 
 ## 🔧 Tech Stack & Tools
 
-- 💻 **Languages**: Dart, JavaScript, Python  
+- 💻 **Languages**: Dart, Python 
 - 🧱 **Frameworks**: Flutter, GetX, Provider  
 - ☁️ **Backend**: Firebase, Supabase, REST APIs  
 - 🧪 **Testing**: Unit Testing, Integration Testing  
-- ⚙️ **Tools**: Git, GitHub, Postman, Figma  
+- ⚙️ **Tools**: Git, GitHub, Postman  
 - 🧠 **Skills**: System Analysis, Project Planning, Clean Architecture  
 
 ---
@@ -36,9 +36,9 @@ With a strong background in system analysis and testing, I develop clean, mainta
 
 ## 📫 Connect With Me
 
-- [🌐 LinkedIn](https://www.linkedin.com/in/mahmoud-ismael)  
+- [🌐 LinkedIn](www.linkedin.com/in/mahmoud-ismael-42531320b)  
 - [🐱 GitHub](https://github.com/mhmod313)  
-- [📘 Facebook](https://www.facebook.com/Mahmoudismael313)  
+- [📘 Facebook](https://www.facebook.com/Mahmoudismael313)
 
 ---
 
