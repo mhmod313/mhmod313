@@ -40,8 +40,4 @@ With a strong background in system analysis and testing, I develop clean, mainta
 - [🐱 GitHub](https://github.com/mhmod313)  
 - [📘 Facebook](https://www.facebook.com/Mahmoudismael313)
 
----
-
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
 
