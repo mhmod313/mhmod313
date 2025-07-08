@@ -18,7 +18,7 @@ With a strong background in system analysis and testing, I develop clean, mainta
 
 ## 📜 Certifications
 
-- ✅ Project Management Professional (PMP)
+- ✅ Project Management 
 - ✅ Systems Analysis & Design
 - ✅ Software Testing & Quality Assurance
 
