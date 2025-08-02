@@ -8,7 +8,7 @@ With a strong background in system analysis and testing, I develop clean, mainta
 ## 🔧 Tech Stack & Tools
 
 - 💻 **Languages**: Dart, Python 
-- 🧱 **Frameworks**: Flutter, GetX, Provider  
+- 🧱 **Frameworks**: Flutter
 - ☁️ **Backend**: Firebase, Supabase, REST APIs  
 - 🧪 **Testing**: Unit Testing, Integration Testing  
 - ⚙️ **Tools**: Git, GitHub, Postman  
